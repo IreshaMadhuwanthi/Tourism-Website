@@ -56,7 +56,6 @@ The design is clean and organized using separate CSS files for each page.
 - **HTML5** — Page structure  
 - **CSS3** — Styling and layout  
 - **JavaScript (Vanilla)** — Functionality in To-Do list  
-- No frameworks or backend  
 
 ---
 
@@ -65,16 +64,6 @@ The design is clean and organized using separate CSS files for each page.
 1. Download or clone the repository.  
 2. Open **Home.html** in any browser.  
 3. Use the nav bar to move between pages.
-
----
-
-## 📌 Optional Future Enhancements
-
-- Make the site fully responsive  
-- Add animations and image sliders  
-- Convert into a React-based site  
-- Connect the Contact page to a backend  
-- Improve accessibility and SEO  
 
 ---
 
